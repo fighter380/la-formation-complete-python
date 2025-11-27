@@ -1,7 +1,7 @@
 """
 Dans cet exercice, vous devez utiliser les fonctions de conversions
 pour convertir les objets dans le bon type afin d'afficher les phrases
-suivantes et éviter les erreurs.
+suivantes et éviter les erreurs inutile.
 
 Phrases à afficher :
 J'ai une classe de 30 élèves
